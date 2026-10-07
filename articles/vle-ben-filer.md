@@ -3,7 +3,7 @@ title: "キーボードで見る・直す・移る。macOSファイラー VLE-Be
 emoji: "💾"
 type: "idea"
 topics: ["Mac", "個人開発", "Swift"]
-published: false
+published: true
 ---
 
 起動すると、左が一覧、右がプレビューです。画面は青で、文字は等幅です。マウスでも触れますが、コピーも閲覧も編集も、ホームポジションのまま進めます。
